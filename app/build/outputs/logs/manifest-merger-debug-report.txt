@@ -1,0 +1,138 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:6:5-51:19
+MERGED from [com.android.support:design:25.2.0] C:\Users\NISHTHA\.android\build-cache\c533442437b04b4b50ca768b7450cf5ba8d439cd\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\NISHTHA\.android\build-cache\61f3142fbb1e2231ad8bd6f3580dc0a0ccbc5b92\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\NISHTHA\.android\build-cache\27f22d9c34e6cc9505074d5f75a172a8b118a649\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\NISHTHA\.android\build-cache\d9c40c0ba07b1ea5ae5934b08dbd48e9e0e2f03e\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\NISHTHA\.android\build-cache\776d39293b34f4db34c31eb8fea48adce61cbe9b\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\NISHTHA\.android\build-cache\bf93c9f0a3f176e9effd2b3939eb27af78fd57da\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\NISHTHA\.android\build-cache\07cb6bd6d63074c79298ed03b5f234385de40682\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\NISHTHA\.android\build-cache\2b25b2d4cbc1a96d821a909f2a1f4d049418196c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\NISHTHA\.android\build-cache\14af8e4a1ff742c7623d67a7e0ff3a79c21ea4e1\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\NISHTHA\.android\build-cache\ea00be10ae27662a12ce4abad7864802f07c46a1\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\NISHTHA\.android\build-cache\53d71d321678fe7fbb6022f216c62c99087adc39\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\NISHTHA\.android\build-cache\0fadc18da35ec68e1b935308fd431ddb88b545f3\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:9:9-41
+	android:supportsRtl
+		ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:11:9-35
+	android:roundIcon
+		ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:10:9-54
+	android:allowBackup
+		ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:7:9-35
+	android:icon
+		ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:8:9-38
+	android:theme
+		ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.example.admin.taarangana.SplashActivity
+ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:13:9-22:20
+	android:label
+		ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:15:13-45
+	android:theme
+		ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:16:13-56
+	android:name
+		ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:14:13-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.example.admin.taarangana.MainActivity
+ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:23:9-26:59
+	android:label
+		ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:25:13-45
+	android:theme
+		ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:24:13-41
+activity#com.example.admin.taarangana.AboutUs
+ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:27:9-30:46
+	android:label
+		ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:29:13-37
+	android:theme
+		ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:30:13-43
+	android:name
+		ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:28:13-36
+activity#com.example.admin.taarangana.Events
+ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:31:9-34:46
+	android:label
+		ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:33:13-35
+	android:theme
+		ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:32:13-35
+activity#com.example.admin.taarangana.Pronight
+ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:35:9-38:46
+	android:label
+		ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:37:13-60
+	android:theme
+		ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:38:13-43
+	android:name
+		ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:36:13-37
+activity#com.example.admin.taarangana.Sponsors
+ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:40:9-43:46
+	android:label
+		ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:42:13-37
+	android:theme
+		ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:43:13-43
+	android:name
+		ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:41:13-37
+activity#com.example.admin.taarangana.Login
+ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:44:9-46:45
+	android:label
+		ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:45:13-34
+	android:theme
+		ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:46:13-43
+	android:name
+		ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:44:19-40
+activity#com.example.admin.taarangana.Game
+ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:48:9-50:20
+	android:name
+		ADDED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml:48:19-39
+uses-sdk
+INJECTED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.2.0] C:\Users\NISHTHA\.android\build-cache\c533442437b04b4b50ca768b7450cf5ba8d439cd\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\NISHTHA\.android\build-cache\61f3142fbb1e2231ad8bd6f3580dc0a0ccbc5b92\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\NISHTHA\.android\build-cache\27f22d9c34e6cc9505074d5f75a172a8b118a649\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\NISHTHA\.android\build-cache\d9c40c0ba07b1ea5ae5934b08dbd48e9e0e2f03e\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\NISHTHA\.android\build-cache\9d2fefb08edece6c2062e90eb7172917fb782ddf\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] C:\Users\NISHTHA\.android\build-cache\776d39293b34f4db34c31eb8fea48adce61cbe9b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\NISHTHA\.android\build-cache\bf93c9f0a3f176e9effd2b3939eb27af78fd57da\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\NISHTHA\.android\build-cache\07cb6bd6d63074c79298ed03b5f234385de40682\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\NISHTHA\.android\build-cache\2b25b2d4cbc1a96d821a909f2a1f4d049418196c\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\NISHTHA\.android\build-cache\14af8e4a1ff742c7623d67a7e0ff3a79c21ea4e1\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\NISHTHA\.android\build-cache\ea00be10ae27662a12ce4abad7864802f07c46a1\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\NISHTHA\.android\build-cache\53d71d321678fe7fbb6022f216c62c99087adc39\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\NISHTHA\.android\build-cache\0fadc18da35ec68e1b935308fd431ddb88b545f3\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] C:\Users\NISHTHA\.android\build-cache\c533442437b04b4b50ca768b7450cf5ba8d439cd\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NISHTHA\Downloads\Taarangana-master\Taarangana\app\src\main\AndroidManifest.xml
