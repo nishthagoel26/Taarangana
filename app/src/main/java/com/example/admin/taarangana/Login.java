@@ -1,5 +1,5 @@
 package com.example.admin.taarangana;
-
+// LOGIN ACTIVITY!
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.preference.PreferenceManager;
