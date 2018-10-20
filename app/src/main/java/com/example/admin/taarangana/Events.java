@@ -1,5 +1,5 @@
 package com.example.admin.taarangana;
-
+//Events Activity
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 

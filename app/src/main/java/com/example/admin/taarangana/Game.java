@@ -1,5 +1,5 @@
 package com.example.admin.taarangana;
-
+//Game Activity
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
